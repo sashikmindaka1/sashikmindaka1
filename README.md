@@ -1,28 +1,27 @@
-### Hi there, I'm Sashik Mindaka! 👋
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=39FF14&background=0d1117&center=true&vCenter=true&width=750&height=100&lines=System.out.println(%22Hi%2C+I'm+Sashik+Mindaka%22)%3B;console.log(%22Full+Stack+Developer%22)%3B;const+Stack+%3D+%5B%22React%22%2C+%22Spring+Boot%22%5D%3B;while(alive)+%7B+code()%3B+eat()%3B+sleep()%3B+%7D" alt="Typing SVG" />
+  </a>
 
-I'm a passionate developer from NSBM Green University, Sri Lanka.
+  <br/><br/>
 
-- 🔭 I’m currently working on **Student Management Systems**
-- 🌱 I’m currently learning **React & Spring Boot**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Web Development**
+  <h3>👨‍💻 About Me</h3>
+  <p>I'm a Software Engineering Undergraduate at NSBM Green University 🇱🇰</p>
+  
+  <p>
+    <code>State:</code> 🔭 Currently working on <b>Student Management Systems</b><br>
+    <code>Learning:</code> 🌱 Spring Boot, React & PostgreSQL<br>
+    <code>Goals:</code> 🎯 Internship at top tech companies in 2027
+  </p>
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sashikmindaka1&show_icons=true&theme=tokyonight&hide_border=true" alt="sashikmindaka1's github stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashikmindaka1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<a href="https://github.com/sashikmindaka1">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sashikmindaka1&theme=tokyonight&hide_border=true" />
-</a>
-</p>
+### 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,git,github,vscode,idea&theme=dark" />
+</div>
 
 ---
