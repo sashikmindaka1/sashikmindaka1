@@ -15,6 +15,8 @@
     <code>Goals:</code> 🎯 Internship at top tech companies in 2027
   </p>
 
+  
+
 </div>
 
 ---
@@ -23,5 +25,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,postgres,git,github,vscode,idea&theme=dark" />
 </div>
-
+<div align="right">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=sashikmindaka1&style=flat-square&color=0d1117&label=Profile+Views&abbr=true" alt="profile views" />
+</div>
 ---
