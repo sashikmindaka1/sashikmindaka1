@@ -6,13 +6,13 @@
 
   <br/><br/>
 
-  <h3>👨‍💻 About Me</h3>
+  <h3> About Me</h3>
   <p>I'm a Software Engineering Undergraduate at NSBM Green University 🇱🇰</p>
   
   <p>
-    <code>State:</code> 🔭 Currently working on <b>Student Management Systems</b><br>
-    <code>Learning:</code> 🌱 Spring Boot, React & PostgreSQL<br>
-    <code>Goals:</code> 🎯 Internship at top tech companies in 2027
+    <code>State:</code>  Currently working on <b>Advance Financial Tracker App</b><br>
+    <code>Learning:</code>  MERN stack<br>
+    <code>Goals:</code>  Internship at top tech companies in 2027
   </p>
 
   
